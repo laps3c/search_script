@@ -1,7 +1,6 @@
 #!/usr/bin/python
 #coding: utf-8
 #creator: laps3
-#contact: Telegram:@laps3c
 from datetime import datetime
 import os
 import shodan
